@@ -1,0 +1,2 @@
+# Goal
+Using fantasy football data from 2018-2022, I wanted to extract new insights to potential advantages when it came to drafting a fantasy team for a 10-Man PPR 1 QB, 2RB, 2WR, 1 Flex format. First the raw data is wrangled and cleaned, then uploaded to a local mySQL database. Using the mySQL database, I can extract the data I need for different kinds of analysis I want to perform. 
