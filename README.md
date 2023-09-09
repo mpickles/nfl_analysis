@@ -1,0 +1,2 @@
+# NFL DATA ANALYSIS
+This project took multiple .csv files on fantasy football data over the last 5 years (2018-2022) and cleaned them to be uploaded to a local SQL database for use in future projects. There are several Jupyter Notebooks where further analysis on the data was performed.
